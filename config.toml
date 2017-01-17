@@ -1,6 +1,6 @@
 languageCode = "zh-cn"
 title = "CSROSS"
-baseurl = "http://cross2.xyz/"
+baseurl = "http://www.cross2.xyz/"
 theme = "greyshade"
 
 [author]
