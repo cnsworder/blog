@@ -1,9 +1,7 @@
 +++
 date = "2017-01-17T19:42:09+08:00"
-title = "emacs 测试"
-Categories = ["Development","GoLang"]
-Tags = ["Dev","golang"]
-Description = "通用语"
+title = "emacs cask"
+Categories = ["Development","emacs"]
 Type = "post"
 
 +++
