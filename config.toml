@@ -1,0 +1,27 @@
+languageCode = "zh-cn"
+title = "CSROSS"
+baseurl = "http://cross2.xyz/"
+theme = "greyshade"
+
+[author]
+name = "cnsworder"
+email = "cnsworder@gmail.com"
+homepage = "http://www.cross2.xyz"
+
+[taxonomies]
+categories = "categories"
+
+[params]
+description = "专注于基于Linux的嵌入式智能设备和云的开发"
+
+
+subscribe_rss = "/index.xml"
+
+github_user = "cnsworder"
+facebook_user = "cnsworder"
+twitter_user = "cnsworder"
+douban_user = "cnsworder"
+
+facebook_like = true
+twitter_tweet_button = true
+google_plus_one = "true"
