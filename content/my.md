@@ -6,7 +6,6 @@ Type = "post"
 
 +++
 
-# emacs cask
 ![](http://ocr26ve0z.bkt.clouddn.com/14840306582556.jpg)
 
 
