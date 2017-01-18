@@ -1,3 +1,3 @@
 [submodule "public"]
 	path = public
-	url = git@github.com:cnsworder/cnsworder.github.com.git
+	url = https://github.com/cnsworder/cnsworder.github.com.git
