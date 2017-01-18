@@ -1,0 +1,20 @@
+language: go
+sudo: required
+go:
+    - 1.7.4
+os:
+    - linux
+
+env:
+    global:
+        - SSH_KEY="id_rsa"
+        - GIT_NAME="cnsworder"
+        - GIT_EMAIL="cnsworder@gmail.com"
+install:
+    - go get -u -v github.com/spf13/hugo
+
+script:
+    - hugo
+before_install:
+    - sudo pip install docutils
+    - cd public && git push origin master
