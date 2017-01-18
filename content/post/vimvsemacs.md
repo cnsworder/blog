@@ -2,7 +2,7 @@
 date = "2012-09-04"
 title = " vim 与 emacs 脚本编程对比"
 categories = ["vim","emacs"]
-tags = ["vim", emacs]
+tags = ["vim", "emacs"]
 
 +++
 
