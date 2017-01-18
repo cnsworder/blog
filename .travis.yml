@@ -11,6 +11,8 @@ env:
         - GIT_NAME="cnsworder"
         - GIT_EMAIL="cnsworder@gmail.com"
 
+git:
+    submodules: false
 
 install:
     - go get -u -v github.com/spf13/hugo
@@ -24,10 +26,9 @@ before_install:
 
 after_script:
     - cd public
+    - git init
     - git config --global user.name "cnsworder"
     - git config --global user.email "cnsworder@gmail.com"
     - git add .
     - git commit -m "Update blog"
-    - echo "${GH_TOKEN}"
-    - echo "${GH_REF}"
     - git push "https://${GH_TOKEN}@${GH_REF}" master:master
