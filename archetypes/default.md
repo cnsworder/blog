@@ -1,4 +1,4 @@
 +++
-tags = ["Development"]
-categories = ["CPP", "Golang"]
+tags = ["Cpp", "Golang", "Python"]
+categories = ["开发"]
 +++
