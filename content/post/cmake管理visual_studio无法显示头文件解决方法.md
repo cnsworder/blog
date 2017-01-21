@@ -1,8 +1,8 @@
 +++
 date = "2013-01-21T15:12:27+08:00"
-title = "cmake管理visual_studio无法显示头文件解决方法"
+title = "cmake管理visual studio无法显示头文件解决方法"
 categories = ["开发"]
-tags = ["Cpp","Golang","Python"]
+tags = ["Cpp"]
 
 +++
 

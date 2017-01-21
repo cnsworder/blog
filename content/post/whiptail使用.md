@@ -1,10 +1,10 @@
-----
-title = "whiptail使用"
-tags = ["Linux", "shell"]
-categories = ["开发"]
-date = "2015-01-06"
+---
+title: "whiptail使用"
+tags: ["Linux", "shell"]
+categories: ["开发"]
+date: "2015-01-06"
 
-----
+---
 
 `whiptail` 是替代 `dialog` 的实现,它基于 `newt` 库.而 `newt` 则是为了简化 `ncurses` 开发而产生的新的 `tty` 下的UI库.
 
@@ -62,7 +62,8 @@ whiptail --title "Title" --msgbox "Message" $LINES $COLUMNS
 
 基本参数
 -------------------
-Box options: 
+Box options:
+
 +	--msgbox <text> <height> <width>
 +	--yesno  <text> <height> <width>
 +	--infobox <text> <height> <width>

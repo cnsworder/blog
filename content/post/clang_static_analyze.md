@@ -1,6 +1,6 @@
 +++
 date = "2014-02-21T15:09:20+08:00"
-title = "clang_static_analyze"
+title = "clang static analyze"
 categories = ["开发"]
 tags = ["Cpp"]
 
