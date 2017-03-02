@@ -1,12 +1,12 @@
 languageCode = "zh-cn"
 title = "CSROSS"
-baseurl = "http://www.cross2.xyz/"
+baseurl = "http://www.cpio.date/"
 theme = "greyshade"
 
 [author]
 name = "cnsworder"
 email = "cnsworder@gmail.com"
-homepage = "http://www.cross2.xyz"
+homepage = "http://www.cpio.date"
 
 [taxonomies]
 categories = "categories"
